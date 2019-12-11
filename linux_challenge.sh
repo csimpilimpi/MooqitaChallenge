@@ -4,7 +4,7 @@
 pool="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 # defining the maximum size of the file in bytes
-file_max=$((2 ** 9))
+file_max=$((2 ** 20))
 
 # Save original directory so that we can return to it 
 orig_dir=$(pwd)
