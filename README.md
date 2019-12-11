@@ -1,4 +1,4 @@
-#Comments to Mooqita Linux challenge - beginner
+# Comments to Mooqita Linux challenge - beginner
 
 > no more than 15 characters for each line
 
@@ -11,11 +11,11 @@ Here, again, I decided to give the same probability to each of the 62 characters
 
 > What is a good way to control the size of a file? Discuss what options you know and why you picked one of them.
 
-A `while` or an `until` loop. I chose the `while` loop` but an `until` loop would have been just as good.
+A `while` or an `until` loop. I chose the `while` loop but an `until` loop would have been just as good.
 
 > Come up with two ways in Linux to find the size of a file.
 
-'wc -c` or `stat`. I used `stat`.
+`wc -c` or `stat`. I used `stat`.
 
 > Select a sorting style. Which one did you use? Why?
 
